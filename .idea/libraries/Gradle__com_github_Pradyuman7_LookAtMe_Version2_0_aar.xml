@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Pradyuman7:LookAtMe:Version2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/95c298129ea2d080b9274e8dbcd0f63b/transformed/jetified-LookAtMe-Version2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/95c298129ea2d080b9274e8dbcd0f63b/transformed/jetified-LookAtMe-Version2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/95c298129ea2d080b9274e8dbcd0f63b/transformed/jetified-LookAtMe-Version2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a2f63666d08e31e5fe7bbf3c0598f98/transformed/jetified-LookAtMe-Version2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5a2f63666d08e31e5fe7bbf3c0598f98/transformed/jetified-LookAtMe-Version2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a2f63666d08e31e5fe7bbf3c0598f98/transformed/jetified-LookAtMe-Version2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Pradyuman7/LookAtMe/Version2.0/ff5d12eaf74945d2e2870c4b0d05cb5865983702/LookAtMe-Version2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
